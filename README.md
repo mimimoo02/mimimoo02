@@ -2,55 +2,78 @@
   <img src="https://raw.githubusercontent.com/mimimoo02/mimimoo02/main/assets/Welcome_gif.gif" alt="welcome banner"/>
 </div>
 
----
 
-## 👋 About Me
+## 👋 About me 👋
+
 안녕하세요! 데이터로 문제를 정의하고, 분석부터 모델링까지 이어지는 과정을 통해 가치를 만들고 싶은 **데이터 사이언티스트 지망생** Hyungmin 입니다.  
 
 - 📊 데이터 탐색과 분석을 통해 문제를 정의하고, 해결 방향을 찾는 과정에 흥미를 느낍니다.  
 - 🤖 Python, SQL 기반의 데이터 처리 및 머신러닝/딥러닝 모델링 경험이 있으며, 문제 해결에 적용하기 위해 꾸준히 공부하고 있습니다.  
 - 🚀 분석에서 끝나지 않고, **모델링 → 평가 → 개선**하는 과정을 통해 문제 해결에 기여할 수 있는 데이터 사이언티스트로 성장하고 싶습니다.
 
----
 
-## ⚙️ Tech Stack
-
-- **Core**
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white"/>
-
-- **Familiar**
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-
-
-## 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white"/>
-</p>
+## ⚙️ Tech Stack ⚙️
+<div align="left">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp<br>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+<br>
+<div align="left">
+  <!-- Familiar -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
 
 
----
+## 🛠 Tools 🛠
+<!-- Core -->
+<div align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+</div>
+<br>
+<div align="left">
+  <!-- Familiar -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
+</div>
 
-## 🚀 Projects
-- [<제주도 병원 개원 최적 입지 분석 시스템>](https://github.com/Jeju-hospital/hospital-location-analysis): <한 줄 성과/숫자>
-  _2025.06 - 2025.07
-- [<물재생센터 하수처리량 예측 모델 개발>](<repo/링크>): <한 줄 성과>
-- [<오산시 ITS 설치 위치 추천>](<repo/링크>): <한 줄 성과>
 
+## 🚀 Projects 🚀
+
+- [<제주도 병원 개원 최적 입지 분석 시스템>](https://github.com/Jeju-hospital/hospital-location-analysis)
+  _2025.06 – 2025.07 | Python, Pandas, QGIS, Tableau_  
+  의료 접근성 데이터를 활용해 병원 개원의 최적 입지를 분석했습니다.  
+  → 지리정보시스템(QGIS) 기반 입지 가시화  
+  → Tableau 대시보드 제작 및 의사결정 지원  
+  → **(성과 수치 추후 업데이트 예정)**  
+- [<물재생센터 하수처리량 예측 모델 개발>](<repo/링크>)
+  _2025.04 – 2025.05 | Python, Pandas, Scikit-learn, TensorFlow_  
+  공공 데이터를 기반으로 하수처리량을 예측하는 모델을 개발했습니다.  
+  → 데이터 전처리 및 시계열 특성 반영  
+  → 머신러닝/딥러닝 모델을 비교하여 성능 평가  
+  → **(성과 수치 추후 업데이트 예정)**  
+- [<오산시 ITS 설치 위치 추천>](<repo/링크>)
+  _2025.02 – 2025.03 | Python, Pandas, Scikit-learn_  
+  교통 데이터를 분석해 지능형 교통 시스템(ITS) 설치 위치를 제안했습니다.  
+  → 데이터 클리닝 및 이상치 처리  
+  → 예측/분류 모델 기반 설치 후보지 도출  
+  → **(성과 수치 추후 업데이트 예정)**
+  
 <!--예시
 ## 🚀 Projects
 프로젝트 이름 (링크)
@@ -84,17 +107,13 @@
 나중에 레포 정리할 때, README.md 본문에 각 프로젝트 상세 설명이 있으면 연결하기 더 좋아요
 -->
 
-> 더 보기 → [Pinned Repositories](https://github.com/<your-id>?tab=repositories&type=source)
 
----
-
-## 🌱 Studying
+## 🌱 Studying 🌱
 - 데이터 분석 역량 강화 (EDA, 시각화, 통계적 분석 심화)
 - PyTorch를 활용한 딥러닝 기초 및 프로젝트 적용  
 - 시계열 데이터 분석을 통한 예측 모델링  
 - MLOps 기본 개념과 간단한 파이프라인 설계 
 
----
 <!--활동/언어 카드(외부 서비스). <your-id>만 바꾸면 됨, 깃허브 좀 많이 쓰고 나서 주석 풀기
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=<your-id>&show_icons=true&hide_title=true" height="160" />
@@ -120,15 +139,14 @@
 </p>
 -->
 
-## 📊 GitHub Stats
-<p align="center">
+
+## 📊 GitHub Stats 📊
+<p align="lefr">
   <img src="https://github-readme-stats.vercel.app/api?username=mimimoo02&show_icons=true&hide_title=true" height="160"/>
 </p>
 
 
----
-
-## 🤝 Connect
+## 🤝 Connect 🤝 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/<handle>) -->
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mandung10000@gmail.com)
 <!-- [![Blog](https://img.shields.io/badge/Blog-black?logo=github&logoColor=white)](https://<your-blog>) -->
