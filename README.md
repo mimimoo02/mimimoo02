@@ -5,7 +5,7 @@
 
 ## 👋 About me 👋
 
-안녕하세요! 데이터로 문제를 정의하고, 분석부터 모델링까지 이어지는 과정을 통해 가치를 만들고 싶은 **데이터 사이언티스트 지망생** Hyungmin 입니다.  
+안녕하세요! 데이터로 문제를 정의하고, 분석부터 모델링까지 이어지는 과정을 통해 가치를 만들고 싶은 **데이터 분석가 지망생** Hyungmin 입니다.  
 
 - 📊 데이터 탐색과 분석을 통해 문제를 정의하고, 해결 방향을 찾는 과정에 흥미를 느낍니다.  
 - 🤖 Python, SQL 기반의 데이터 처리 및 머신러닝/딥러닝 모델링 경험이 있으며, 문제 해결에 적용하기 위해 꾸준히 공부하고 있습니다.  
@@ -54,25 +54,27 @@
 
 
 ## 🚀 Projects 🚀
-
-- [<제주도 병원 개원 최적 입지 분석 시스템>](https://github.com/Jeju-hospital/hospital-location-analysis)
+- [<세종시 읍면동별 아동 안전 인프라 적정성 분석>](<[https://github.com/mimimoo02/sejong-child-safety-analysis]>)
+  _2025.09 – 2025.10 | Python, Numpy, Pandas, QGIS, Scikit-learn   
+  → 세종시 내 아동 안전 관련 다양한 공공데이터를 활용하여 읍면동 단위의 아동 안전 인프라 적정성 분석 수행
+  → 
+  → [<세종특별자치 빅데이터 공모전>](<[https://www2.sejong.go.kr/bigdata/contest/contestRcritDetailView.do]>) 수상(우수상)
+- [<제주도 병원 개원 최적 입지 분석 시스템>](<[https://github.com/Jeju-hospital/hospital-location-analysis]>)
   _2025.06 – 2025.07 | Python, Pandas, QGIS, Tableau_  
   의료 접근성 데이터를 활용해 병원 개원의 최적 입지를 분석했습니다.  
   → 지리정보시스템(QGIS) 기반 입지 가시화  
   → Tableau 대시보드 제작 및 의사결정 지원  
-  → **(성과 수치 추후 업데이트 예정)**  
-- [<물재생센터 하수처리량 예측 모델 개발>](<repo/링크>)
+- [<물재생센터 하수처리량 예측 모델 개발>](<https://github.com/mimimoo02/Seoul-Wastewater-Processing-Prediction>)
   _2025.04 – 2025.05 | Python, Pandas, Scikit-learn, TensorFlow_  
   공공 데이터를 기반으로 하수처리량을 예측하는 모델을 개발했습니다.  
   → 데이터 전처리 및 시계열 특성 반영  
   → 머신러닝/딥러닝 모델을 비교하여 성능 평가  
-  → **(성과 수치 추후 업데이트 예정)**  
-- [<오산시 ITS 설치 위치 추천>](<repo/링크>)
+- [<오산시 ITS 설치 위치 추천>](<[https://github.com/mimimoo02/osan_ITS_analysis]>)
   _2025.02 – 2025.03 | Python, Pandas, Scikit-learn_  
   교통 데이터를 분석해 지능형 교통 시스템(ITS) 설치 위치를 제안했습니다.  
   → 데이터 클리닝 및 이상치 처리  
-  → 예측/분류 모델 기반 설치 후보지 도출  
-  → **(성과 수치 추후 업데이트 예정)**
+  → 예측/분류 모델 기반 설치 후보지 도출
+  -> ㅅ
   
 <!--예시
 ## 🚀 Projects
